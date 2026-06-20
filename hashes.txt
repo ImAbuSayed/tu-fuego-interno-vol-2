@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu fuego interno, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Tu fuego interno, Vol. 2** (tu-fuego-interno-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T09:10:57.922432 | `v1` | `5adc63e30af7c59059e4662f68f47255f88cc3964b3e894a7e3a3992ea3c03ae` | `c216cf7f4f1b340b727edffca909c6b22ef1b2cb3c8085beda66465f8b9ac670` | `2026-06-20_tu-fuego-interno-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-fuego-interno-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Tu fuego interno, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-fuego-interno-vol-2/) |
+| **Get License** | [Obtain a Music License for Tu fuego interno, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-fuego-interno-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5adc63e30af7c59059e4662f68f47255f88cc3964b3e894a7e3a3992ea3c03ae` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
