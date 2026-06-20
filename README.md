@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-fuego-interno-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Tu fuego interno, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-fuego-interno-vol-2/) |
+| **Get License** | [Get a Licensing Quote for Tu fuego interno, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-fuego-interno-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Late night fire burning in your eyes
+> Your body's calling me between the lies
+> I feel the rhythm pulling us so close
+> This moment's ours, let go of all your ghosts
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
